@@ -1,0 +1,11 @@
+.btn{
+    font-size: 26px;
+    border:1px solid white;
+    background:oklab(0.76 -0.18 0.18);
+}
+
+.btn:hover{
+    transform: scale(1.1);  
+    background: oklch(0.79 0.18 211.59);
+    border:none;
+}
